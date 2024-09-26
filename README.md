@@ -16,7 +16,7 @@
 </h1>
 </div/>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 Я Java Developer <img src="https://media0.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.gif?cid=6c09b952av40hyyjxoy4ik8v8zyudyi9lwsygswy5q1a4n89&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30"> из России.
 - 👨‍🎓: Я изучаю Java более одного года.
 
@@ -51,3 +51,8 @@ Spring Boot:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com?user=Andrew9334&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrew9334&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

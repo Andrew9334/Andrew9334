@@ -28,4 +28,4 @@ I am a Java Developer <img src="https://media0.giphy.com/media/jzuSsejVh8EYRfdOT
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-![Spring](https://https://simpleicons.org/?q=Spring)
+![Static Badge](https://img.shields.io/badge/Spring%20)

@@ -31,6 +31,7 @@ Spring Framework:
 Spring Boot:
 * <a href="https://github.com/Andrew9334/TopJava">Перевод проекта Java Enterprise Online Projects на SpringBoot</a>
 * <a href="https://github.com/Andrew9334/topjava_graduation">Дипломный проект "Голосование за рестораны"</a>
+* <a href="https://github.com/Andrew9334/Wallet">Тестовое задание от компании JavaCode</a>
 
 - :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndrewLuferenko)
 ---

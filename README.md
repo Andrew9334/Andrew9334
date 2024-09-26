@@ -24,4 +24,8 @@ I am a Java Developer <img src="https://media0.giphy.com/media/jzuSsejVh8EYRfdOT
 
 - :zap: In my free time I read technical literature.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndrewLuferenko)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AndrewLuferenko)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+![Spring](https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=black)

@@ -29,3 +29,5 @@ I am a Java Developer <img src="https://media0.giphy.com/media/jzuSsejVh8EYRfdOT
 
 ### :hammer_and_wrench: Languages and Tools :
 ![Spring](https://img.shields.io/badge/Spring-#6DB33F?style=for-the-badge&logo=Spring&logoColor=black)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

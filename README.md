@@ -17,7 +17,7 @@
 </div/>
 
 ### :man_technologist: Обо мне :
-Я Java Developer <img src="https://media0.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.gif?cid=6c09b952av40hyyjxoy4ik8v8zyudyi9lwsygswy5q1a4n89&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40"> из России.
+Я Java Developer <img src="https://media0.giphy.com/media/jzuSsejVh8EYRfdOTz/giphy.gif?cid=6c09b952av40hyyjxoy4ik8v8zyudyi9lwsygswy5q1a4n89&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="40">.
 - 👨‍🎓: Я изучаю Java более одного года.
 
 - У меня есть несколько пет-проектов:
